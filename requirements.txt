@@ -1,0 +1,13 @@
+# requirements
+
+streamlit
+pandas
+plotly
+wordcloud
+matplotlib
+python-dotenv
+pymongo
+nltk
+folium
+branca
+streamlit_folium
